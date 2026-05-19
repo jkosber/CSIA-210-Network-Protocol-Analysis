@@ -12,15 +12,14 @@ My Spring 2026 coursework at Ivy Tech Kokomo. Packet capture and TCP/IP protocol
 ## Repository layout
 
 ```
-CSIA210/
-  Module01/  Chapters 1-2 hands-on + a saved Wireshark capture (ch01_MyCapture.pcapng)
-  Module02/  Chapters 3-4 hands-on
-  Module03/  Chapters 5-6 hands-on
-  Module04/  Chapters 7-8 hands-on + Midterm Capstone
-  Module05/  Chapter 9 hands-on
-  Module06/  Chapters 10-11 hands-on
-  Module07/  Chapters 12-13 hands-on
-  Module08/  Chapter 14 hands-on + Final Capstone
+Module01/  Chapters 1-2 hands-on + a saved Wireshark capture (ch01_MyCapture.pcapng)
+Module02/  Chapters 3-4 hands-on
+Module03/  Chapters 5-6 hands-on
+Module04/  Chapters 7-8 hands-on + Midterm Capstone
+Module05/  Chapter 9 hands-on
+Module06/  Chapters 10-11 hands-on
+Module07/  Chapters 12-13 hands-on
+Module08/  Chapter 14 hands-on + Final Capstone
 ```
 
 ## Module walkthrough
