@@ -1,43 +1,6 @@
 # CSIA-210 — Network Protocol Analysis
 
-My Spring 2026 coursework for **Ivy Tech CSIA 210 — Network Protocol Analysis** at Ivy Tech Kokomo. Packet capture and TCP/IP protocol analysis with Wireshark, tcpdump, and Nmap. The course follows the textbook chapter-by-chapter — each module covers two book chapters plus the related hands-on labs, with a midterm capstone wrapping Module 4 and a final capstone wrapping Module 8.
-
-## Course information
-
-| Field            | Detail                                                                |
-| :--------------- | :-------------------------------------------------------------------- |
-| Course number    | CSIA 210                                                              |
-| Course title     | Network Protocol Analysis                                             |
-| School / program | Computing and Informatics — Cyber Security / Information Assurance *(per current outline)* |
-| Credit hours     | 3                                                                     |
-| Contact hours    | Lecture 2, Lab 2                                                      |
-| Prerequisites    | NETI 104 *Introduction to Networking* or NETI 109 *Networking I*      |
-| Term             | Spring 2026                                                           |
-| Outline revision | Fall 2014 (date of last revision Fall 2013)                           |
-
-## Catalog description
-
-> Offers in-depth coverage of all the salient models, protocols, services, and standards that govern TCP/IP and that guide its behavior on modern networks. Specific guidance is given to reinforce the concepts introduced and to help prepare students to interact with TCP/IP on the vast majority of networks in use today. As a hands-on course, students are provided firsthand experience in installing, configuring, analyzing, using, and managing TCP/IP on a network. Included are case projects that pose problems and require creative solutions that should prepare students for the kinds of situations faced on a real, live network.
-
-## What you're supposed to be able to do by the end
-
-1. Develop an understanding of basic IP packet structures.
-2. Explore and explain the Data Link and Network Layer protocols — packet / frame types, hardware addresses, and Neighbor Discovery.
-3. Analyze routing and routed protocols for both IPv4 and IPv6.
-4. Examine ICMP testing and troubleshooting methods, security issues, and ICMP message types and codes.
-5. Explain how Neighbor Discovery works on IPv6.
-6. Describe various auto-addressing schemes on IPv4 and IPv6 networks.
-7. Explain key services that resolve symbolic, human-readable network names into machine-intelligible network addresses.
-8. Examine the common and appropriate uses of the TCP and UDP protocols.
-9. Describe issues and techniques when IPv4 and IPv6 coexist on the same network.
-10. Examine tunneling mechanisms and protocols.
-11. Understand, plan, deploy, and use IPv6 on modern TCP/IP networks.
-12. Appraise general network security basics with emphasis on IP security topics.
-13. Review perimeter security, infrastructure security, and host device security.
-
-## Topical content
-
-Headers · Payloads · ARP · RARP · IPv4 · IPv6 · RIPv1 / v2 · OSPF · EIGRP · BGP · DHCPv4 / v6 · Host and interface address determination · Stateless and stateful autoconfiguration · APIPA · ISATAP · 6to4 · Teredo · OSI model · TCP/IP model · Wireshark · tcpdump · Nmap.
+My Spring 2026 coursework at Ivy Tech Kokomo. Packet capture and TCP/IP protocol analysis with Wireshark, tcpdump, and Nmap. The course follows the textbook chapter-by-chapter — each course module covers two book chapters plus the related hands-on labs, with a midterm capstone wrapping Module 4 and a final capstone wrapping Module 8.
 
 ## Tools
 
