@@ -36,7 +36,7 @@ CSIA210/
 
 ## Outcome
 
-Course completed Spring 2026 — counts toward the Cyber Security & Information Assurance Technical Certificate at Ivy Tech Kokomo. Both capstone assessments (midterm and final) passed.
+Both capstone assessments (midterm and final) passed.
 
 ## Related repos
 
