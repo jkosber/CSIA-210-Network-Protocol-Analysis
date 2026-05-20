@@ -7,7 +7,6 @@ My Spring 2026 coursework at Ivy Tech Kokomo. Packet capture and TCP/IP protocol
 - **Wireshark** — main packet-capture and protocol-analysis tool. `Module01/ch01_MyCapture.pcapng` is the saved capture from the first session.
 - **tcpdump** — command-line packet capture.
 - **Nmap** — reconnaissance scans.
-- OSI / TCP-IP layer framing applied throughout the labs.
 
 ## Repository layout
 
